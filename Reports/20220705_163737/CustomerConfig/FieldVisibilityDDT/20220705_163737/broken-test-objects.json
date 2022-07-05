@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/FieldVisibility/deliveryEmail",
+      "brokenLocator": "//label[@id\u003d\u0027show_del_delivery_email_label\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Phone Number\u0027])[3]/following::label[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20220705_163737/CustomerConfig/FieldVisibilityDDT/20220705_163737/Object Repository/FieldVisibility/deliveryEmail_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/FieldVisibility/deliverySMS",
+      "brokenLocator": "//label[@id\u003d\u0027show_del_delivery_sms_label\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Email\u0027])[3]/following::label[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20220705_163737/CustomerConfig"
+    }
+  ]
+}

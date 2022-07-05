@@ -11,6 +11,7 @@ public class GlobalVariable {
      
     /**
      * <p>Profile default : url for ptk021
+Profile dev : ptk 021 url
 Profile staging : url for ptk021
 Profile test : url for ptk021</p>
      */
@@ -18,6 +19,7 @@ Profile test : url for ptk021</p>
      
     /**
      * <p>Profile default : url for vig999
+Profile dev : vig 999 url
 Profile test : url for vig999</p>
      */
     public static Object vig999

@@ -18,9 +18,9 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.w
 DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.testng.keyword.internal.TestNGDriverCleaner())
 
 
-RunConfiguration.setExecutionSettingFile('C:\\Users\\dfisher\\AppData\\Local\\Temp\\Katalon\\Test Cases\\CustomerConfig\\FieldVisibility\\20220705_161601\\execution.properties')
+RunConfiguration.setExecutionSettingFile('C:\\Users\\dfisher\\AppData\\Local\\Temp\\Katalon\\20220705_163736\\execution.properties')
 
 TestCaseMain.beforeStart()
 
-        TestCaseMain.runTestCase('Test Cases/CustomerConfig/FieldVisibility', new TestCaseBinding('Test Cases/CustomerConfig/FieldVisibility',[:]), FailureHandling.STOP_ON_FAILURE , false)
+        TestCaseMain.runTestCase('', new TestCaseBinding('',[:]), FailureHandling.STOP_ON_FAILURE , false)
     

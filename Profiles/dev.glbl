@@ -5,8 +5,13 @@
    <tag></tag>
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
-      <description></description>
+      <description>ptk 021 url</description>
       <initValue>'http://ptk021.devportal.com'</initValue>
       <name>ptk021</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>vig 999 url</description>
+      <initValue>'http://vig999.devportal.com'</initValue>
+      <name>vig999</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
