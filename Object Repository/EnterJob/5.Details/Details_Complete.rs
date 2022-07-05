@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Details_Complete</name>
+   <tag></tag>
+   <elementGuidId>8be04a78-c3e4-469e-81ea-33baaeea1ee3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#detailsCompleteBtn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='detailsCompleteBtn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d740ec93-50ba-4bfa-86c1-a3fb0c678d5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>afbb89d9-07a0-4ab6-bece-dbf08bdc5c1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>detailsCompleteBtn</value>
+      <webElementGuid>c173c3e2-8496-4ec4-97cf-a5a00e27fbaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>completeButton()</value>
+      <webElementGuid>9a35f222-3ec1-4eac-803a-7dd8aa1ee3da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                
+                                Complete
+                            </value>
+      <webElementGuid>11514e5f-160e-44a3-833f-2433fd5190fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;detailsCompleteBtn&quot;)</value>
+      <webElementGuid>d0015886-6a4b-4e2f-9e55-29e8c7fccb80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='detailsCompleteBtn']</value>
+      <webElementGuid>fd1310b3-e7aa-446a-81f0-87eeba25d4b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OS Spaces'])[1]/following::a[1]</value>
+      <webElementGuid>8ec194d4-0a16-4d41-aabb-c2b08f2e292d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OS Quarter'])[1]/following::a[1]</value>
+      <webElementGuid>b90757f3-0f94-4ab2-b550-f7b816bb3665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time Specific (At The Time Entered -10am or later)'])[2]/preceding::a[1]</value>
+      <webElementGuid>114926d0-b3e0-46c4-95bf-4478b805f807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[41]</value>
+      <webElementGuid>210b4c8b-54f5-4c29-88d6-df409a54b3b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/a</value>
+      <webElementGuid>ee2042fa-c130-459c-93d4-47ca25547135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'detailsCompleteBtn' and (text() = '
+                                
+                                Complete
+                            ' or . = '
+                                
+                                Complete
+                            ')]</value>
+      <webElementGuid>65ba1706-1e59-4aef-9bea-716306096ad6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

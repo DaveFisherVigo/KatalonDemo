@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Remember Btn</name>
+   <tag></tag>
+   <elementGuidId>7fb8464f-b890-4b65-83b3-962a28c371f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='delivery_deliveryrememberBtn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#delivery_deliveryrememberBtn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>035992f2-cd09-4fb9-8e39-ae879946b8ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>$ctrl.showExtra == false &amp;&amp; $ctrl.viewConfig.isSelectOnly == false</value>
+      <webElementGuid>e7a776e7-af5a-4da7-8e5c-6f601906040e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button--secondary button--outline ng-binding ng-scope</value>
+      <webElementGuid>420dc3fe-2acd-4d4c-ab38-a86f743a7670</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>delivery_deliveryrememberBtn</value>
+      <webElementGuid>c627488e-26c5-46ad-ad8d-9b34effa6ad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>rememberAddress()</value>
+      <webElementGuid>2d8bf52b-f170-4211-b5d4-1e506763204f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Remember This Address</value>
+      <webElementGuid>e68496ca-65bc-45ef-8847-678dc33bc0c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;delivery_deliveryrememberBtn&quot;)</value>
+      <webElementGuid>02b44c5a-b6bd-4b6b-8da4-d58ec8a74677</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='delivery_deliveryrememberBtn']</value>
+      <webElementGuid>b57be658-5934-4d27-9547-02b58612b934</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Remember This Address')]</value>
+      <webElementGuid>2989b560-863c-4842-87ac-d8956a957c71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Address'])[1]/following::a[1]</value>
+      <webElementGuid>549fd234-b78c-4ab4-ab00-09b620cbe85d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You are editing existing address , Pressing Save and Complete will overwrite the existing address'])[1]/following::a[2]</value>
+      <webElementGuid>9be76c22-0bf6-44f4-a8b1-f05c8cdd13e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Complete'])[2]/preceding::a[1]</value>
+      <webElementGuid>fb391de1-3794-4bbd-991e-1ec71eb90777</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Remember This Address']/parent::*</value>
+      <webElementGuid>49f8bf9d-6274-4d79-9298-cd82259c557d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[38]</value>
+      <webElementGuid>a4fcf255-d485-4c05-b110-f7918b17fb37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ptapp-address-buttons/div/a[2]</value>
+      <webElementGuid>97bbbca2-1f66-4583-bc30-9eb7befd32a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'delivery_deliveryrememberBtn' and (text() = '  Remember This Address' or . = '  Remember This Address')]</value>
+      <webElementGuid>ea39e67a-3b2c-4dfa-8ddc-4b4de841f94e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LoginTab</name>
+   <tag></tag>
+   <elementGuidId>51037d76-eecb-4b29-87a3-bb1f63484ba0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Track IT'])[1]/preceding::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>702445da-a5a4-4b1a-9bf9-5ab336dd796f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Login</value>
+      <webElementGuid>4ffe5d5f-b36d-4edf-b9ba-e4177e1578d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-login&quot;]/div[@class=&quot;site-wrapper&quot;]/div[@class=&quot;ng-scope&quot;]/ptapp-login[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;tabs&quot;]/div[@class=&quot;tabs__header clearfix&quot;]/a[@class=&quot;active&quot;]/span[1]</value>
+      <webElementGuid>7038acc8-648e-4953-aab3-7e90aaf916de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Track IT'])[1]/preceding::span[1]</value>
+      <webElementGuid>c743baa0-b1e0-477b-81ef-b1fcb598f208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Track your items'])[1]/preceding::span[2]</value>
+      <webElementGuid>f8d811e4-f2e7-4ad8-9370-892911257280</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
+      <webElementGuid>f560771e-b5de-4e11-88f2-216d6a83112c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>72548a79-23d6-404e-8cee-6cf58b6563d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Login' or . = ' Login')]</value>
+      <webElementGuid>6ad9a153-8fde-4b62-b676-18bae4c248ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

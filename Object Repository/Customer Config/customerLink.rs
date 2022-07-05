@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>customerLink</name>
+   <tag></tag>
+   <elementGuidId>b0b15346-32c4-4b04-8e56-cfde5d1f686b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'4OCUSLTD')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '${custCode}' or . = '${custCode}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>99b5cda8-24c0-4d00-b8d0-809d1d132890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>23622670-34ba-40d7-bb39-856a70b4cdec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${custCode}</value>
+      <webElementGuid>29859323-4b69-425b-b97a-b614bae474f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;site-wrapper&quot;]/div[@class=&quot;content content--fw&quot;]/div[@class=&quot;page-register&quot;]/div[@class=&quot;ng-scope&quot;]/ptapp-register[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;tabs&quot;]/div[@class=&quot;tabs__content tabs__content--nplr&quot;]/div[@class=&quot;tabs__item open&quot;]/ptapp-register-view[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;grid&quot;]/div[@class=&quot;grid__column-100&quot;]/table[@class=&quot;table table--alt&quot;]/tbody[1]/tr[@class=&quot;ng-scope&quot;]/td[2]/a[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>6e22f897-3a40-40e3-973c-b9f9b581690f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'4OCUSLTD')]</value>
+      <webElementGuid>2a07f8af-f434-474b-924c-d7c5e9324a0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CUSTOMERSERVICES@INTERHAUL.CO.UK'])[1]/following::a[1]</value>
+      <webElementGuid>579ee00d-9573-4607-8c39-7b26245789be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flame Protect UK Ltd'])[1]/following::a[1]</value>
+      <webElementGuid>e94bfcca-5436-4fb2-8834-75147072fbeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='customerservice@interhaul.co.uk'])[1]/preceding::a[1]</value>
+      <webElementGuid>f6951ab7-1653-4a4b-9d20-453cc58b5e62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='interhaultemp@gmail.com'])[1]/preceding::a[2]</value>
+      <webElementGuid>085ef1b0-5993-4be7-a3e0-af6da734cf42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='4OCUSLTD']/parent::*</value>
+      <webElementGuid>ddbe225b-a132-4efb-8228-52ae4428e11a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/?module=customer-config&amp;custId=66222&amp;shortCompany=4OCUSLTD')]</value>
+      <webElementGuid>0cadaf52-03f9-470f-a1f5-25a884c1992c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]/a</value>
+      <webElementGuid>6aa0e00d-c572-40d9-b1a9-8a935648b2d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/?module=customer-config&amp;custId=66222&amp;shortCompany=4OCUSLTD' and (text() = '4OCUSLTD' or . = '4OCUSLTD')]</value>
+      <webElementGuid>10053c34-6d56-4fde-9789-06ffed65d27e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Next DayEconomyPre Booked DeliveryEu_6f9677</name>
+   <tag></tag>
+   <elementGuidId>5ed2e7c0-5f91-40d2-8f30-afe2b853bf71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#services</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='services']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>11cf6278-27e1-4c66-af85-aff95cdf8cea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>services</value>
+      <webElementGuid>a130028e-a586-402b-9dc6-f1201afc6c96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>services</value>
+      <webElementGuid>3eb67746-8281-44f1-9a1b-749f7e0ce0af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>service</value>
+      <webElementGuid>17b9c154-b853-4763-aa97-39a6dad3358d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-change</name>
+      <type>Main</type>
+      <value>serviceUpdated()</value>
+      <webElementGuid>a5389c99-96fd-42e3-9bdc-8dcd41c7bb4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-untouched ng-valid ng-not-empty</value>
+      <webElementGuid>d0c71ab6-a6fd-4659-9ff4-d2a36a770129</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Next DayEconomyPre Booked DeliveryEuropean EconomySaturdaySaturday PMSaturday Timed
+                            </value>
+      <webElementGuid>960f8d86-2baa-4414-911a-5d15c3ebc934</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;services&quot;)</value>
+      <webElementGuid>0acecbb8-c711-4ed8-aa39-754983982937</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='services']</value>
+      <webElementGuid>bb00733e-f8a6-4079-8159-3559b88076e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service'])[1]/following::select[1]</value>
+      <webElementGuid>2f796a9a-b941-41d5-ac7f-23fbdfd08a95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Due Date'])[1]/preceding::select[1]</value>
+      <webElementGuid>6ce6ebc8-8b7c-4b11-b285-3221f8cc3614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Due Time'])[1]/preceding::select[2]</value>
+      <webElementGuid>85925d1c-71d6-4711-aa6c-83f2dcb0ed51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/select</value>
+      <webElementGuid>da91dd1c-bd1c-472e-be26-6ab4415bccc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'services' and @id = 'services' and (text() = '
+                                Next DayEconomyPre Booked DeliveryEuropean EconomySaturdaySaturday PMSaturday Timed
+                            ' or . = '
+                                Next DayEconomyPre Booked DeliveryEuropean EconomySaturdaySaturday PMSaturday Timed
+                            ')]</value>
+      <webElementGuid>b590caaa-21c2-42b5-8cfe-725fe912450c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

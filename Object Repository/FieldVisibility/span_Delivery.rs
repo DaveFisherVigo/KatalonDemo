@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Delivery</name>
+   <tag></tag>
+   <elementGuidId>b3a398d6-64e9-4c59-8795-7174372f8b9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Field Visibility'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ptapp-cust-config-field-visibility.ng-isolate-scope > div.card-section > div.card-section__body.card-section__body--alt > form.form.ng-pristine.ng-valid > div.tabs.nmlr > div.tabs__header.clearfix > a.active > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>875e962f-9b0d-4bc4-8b8b-51f828d0134f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delivery</value>
+      <webElementGuid>327639f4-ce83-4d3c-bfad-8e58bac1fabc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;site-wrapper&quot;]/div[@class=&quot;content content--fw&quot;]/div[@class=&quot;page-customer-config&quot;]/div[@class=&quot;ng-scope&quot;]/ptapp-cust-config[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;grid&quot;]/div[@class=&quot;grid__column-100&quot;]/ptapp-cust-config-field-visibility[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;card-section&quot;]/div[@class=&quot;card-section__body card-section__body--alt&quot;]/form[@class=&quot;form ng-pristine ng-valid&quot;]/div[@class=&quot;tabs nmlr&quot;]/div[@class=&quot;tabs__header clearfix&quot;]/a[@class=&quot;active&quot;]/span[1]</value>
+      <webElementGuid>10c3a47c-56f0-496e-803b-0dbefe855d09</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Field Visibility'])[1]/following::span[1]</value>
+      <webElementGuid>b07d498d-73b3-42fe-8f47-b84003d70dd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reverse Collection'])[1]/preceding::span[1]</value>
+      <webElementGuid>9e4cda56-f99e-4fcb-a5a8-e5ab5a9bf71c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Third Party'])[1]/preceding::span[2]</value>
+      <webElementGuid>d53465bd-ee18-4c09-96b6-e433e2732148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delivery']/parent::*</value>
+      <webElementGuid>b032d2c7-8ef6-466d-b7d4-04a722f64bfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ptapp-cust-config-field-visibility/div/div[3]/form/div/div/a/span</value>
+      <webElementGuid>7494ff94-d9fe-427e-8049-b5346cf13180</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Delivery' or . = 'Delivery')]</value>
+      <webElementGuid>c0e2586e-47ed-4f0d-933c-d4b13e030dee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

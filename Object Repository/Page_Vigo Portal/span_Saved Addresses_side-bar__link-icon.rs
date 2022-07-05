@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Saved Addresses_side-bar__link-icon</name>
+   <tag></tag>
+   <elementGuidId>4e257018-55db-4ad0-872b-2a9bdea1c6a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Saved Addresses'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c2f8a64d-f7f2-4857-820a-473cac5d4dbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>side-bar__link-icon</value>
+      <webElementGuid>76197e58-5f63-4c9c-9f3b-1dd9aafd7cd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;side-bar&quot;]/div[@class=&quot;side-bar__inner&quot;]/a[@class=&quot;side-bar__link&quot;]/span[@class=&quot;side-bar__link-icon&quot;]</value>
+      <webElementGuid>2daf3604-a20d-4ca7-b6f1-62ec8241b1ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saved Addresses'])[1]/following::span[1]</value>
+      <webElementGuid>f2c8c1ce-ce64-463b-b3a9-da473bac1371</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Paperwork'])[1]/following::span[3]</value>
+      <webElementGuid>7fd6e07f-7694-49c0-bdb0-c3b3c0ae5011</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/preceding::span[1]</value>
+      <webElementGuid>9d03f8f1-9c5e-4b27-a076-d859b9f448a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[10]/span</value>
+      <webElementGuid>ac617b18-aebd-4ae4-99ba-7a8aaad11964</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

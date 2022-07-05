@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Track IT_form__submit--fw</name>
+   <tag></tag>
+   <elementGuidId>6991639b-98fe-4621-91c5-6f238078322f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tabs__item.open > ptapp-login-form.ng-isolate-scope > div.grid > div.grid__column-100 > form[name=&quot;loginForm&quot;] > div.form__row.form__row--nmb > input.form__submit--fw</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value='Login'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3b458194-9b8a-449f-b668-fd865c15e519</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form__submit--fw</value>
+      <webElementGuid>6879abbc-c078-4543-8175-ba1544d828f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>149f6b63-31a8-4593-8746-d64412fe4e04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>edf49afb-1236-42cc-889e-fe15c5edfd91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-login&quot;]/div[@class=&quot;site-wrapper&quot;]/div[@class=&quot;ng-scope&quot;]/ptapp-login[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;tabs&quot;]/div[@class=&quot;tabs__content tabs__content--nplr&quot;]/div[@class=&quot;tabs__item open&quot;]/ptapp-login-form[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;grid&quot;]/div[@class=&quot;grid__column-100&quot;]/form[@class=&quot;form ng-valid-maxlength ng-dirty ng-valid-parse ng-valid ng-valid-required&quot;]/div[@class=&quot;form__row form__row--nmb&quot;]/input[@class=&quot;form__submit--fw&quot;]</value>
+      <webElementGuid>094f6669-d7de-459e-a774-d371c93a63f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value='Login'])[2]</value>
+      <webElementGuid>fda1fcce-f11c-4000-ba44-0327f3f0d40d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ptapp-login-form/div/div/form/div[3]/input</value>
+      <webElementGuid>2131cf65-02cf-4c0c-8360-78b68f5dcedd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>0f399896-088b-4b6b-911b-07f1d700664c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SiteAddressDdl</name>
+   <tag></tag>
+   <elementGuidId>ff3b667d-01af-482b-8c47-cbeb741b6f53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collection_deliveryaddress-search-ac']/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>588cca66-143d-425f-b9dd-d3eeed19258a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-hide</name>
+      <type>Main</type>
+      <value>$select.isEmpty()</value>
+      <webElementGuid>bf877d8f-8d06-43af-8e35-a982f61d4d7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-chosen</value>
+      <webElementGuid>453548c3-14ac-4011-b99a-54e4524f9744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  GB RAIL LIMITED</value>
+      <webElementGuid>61ddfd0f-cdad-4a56-81c4-0a897649a34d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collection_deliveryaddress-search-ac&quot;)/a[@class=&quot;select2-choice ui-select-match ng-scope&quot;]/span[@class=&quot;select2-chosen&quot;]</value>
+      <webElementGuid>43bfd6fd-f903-46bd-92f5-035d588218b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collection_deliveryaddress-search-ac']/a/span[2]</value>
+      <webElementGuid>b76bded4-564b-423e-8697-e9851ac2e1c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Addresses'])[1]/following::span[1]</value>
+      <webElementGuid>cc403122-86a7-473b-b668-f5e650463cb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Address'])[1]/following::span[2]</value>
+      <webElementGuid>e159213a-da30-42f7-94e3-e39b849a364c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Site Addresses'])[1]/preceding::span[2]</value>
+      <webElementGuid>e4f57b87-a535-48d7-85a6-56f9f9dcea73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='GB RAIL LIMITED']/parent::*</value>
+      <webElementGuid>6847df93-82a0-4cea-8691-ef511e682c4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/span[2]</value>
+      <webElementGuid>617e3a7e-4b51-47dd-bdb2-31f1420a4318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '  GB RAIL LIMITED' or . = '  GB RAIL LIMITED')]</value>
+      <webElementGuid>39ef811a-ffee-49c5-a63e-105f58059035</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

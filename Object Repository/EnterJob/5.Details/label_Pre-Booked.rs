@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Pre-Booked</name>
+   <tag></tag>
+   <elementGuidId>6cde27bc-e6a2-4fd7-b94e-6fa43faa5f56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Home Delivery'])[2]/following::label[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>89da5afa-1956-4fb1-9d33-44cfd624b67e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>nonTimedSurcharge_PB</value>
+      <webElementGuid>a0fa5b83-d6c2-41b2-aba5-f0249a518914</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-wrap ng-binding</value>
+      <webElementGuid>fb3b089d-d88d-4187-92d9-7c2d382dd5d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pre-Booked</value>
+      <webElementGuid>96b529af-01ed-46d5-9c29-0e218ddeea20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;site-wrapper&quot;]/div[@class=&quot;content content--fw&quot;]/div[@class=&quot;page-enter-job-delivery&quot;]/div[@class=&quot;ng-scope&quot;]/ui-view[@class=&quot;ng-scope&quot;]/job-form[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;tabs helper-pos-relative&quot;]/div[@class=&quot;tabs__content tabs__content--nplr&quot;]/div[@class=&quot;tabs__item open&quot;]/ng-form[@class=&quot;form ng-valid-maxlength ng-valid-min ng-valid-pattern ng-valid-email ng-valid-fields_postcode ng-valid-addr3 ng-dirty ng-valid-parse ng-valid-postcode ng-valid ng-valid-required&quot;]/job-details[@class=&quot;ng-isolate-scope&quot;]/ng-form[@class=&quot;ng-valid ng-valid-required ng-valid-maxlength ng-dirty ng-valid-parse&quot;]/div[1]/div[1]/div[@class=&quot;row mr-0 ml-0&quot;]/div[@class=&quot;col-12 pl-1 pl-md-2 pr-1 pr-md-2&quot;]/div[@class=&quot;col-12&quot;]/service-surcharge[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-2 col-6 text-wrap ng-scope&quot;]/div[@class=&quot;checkbox-toggle text-wrap ng-scope&quot;]/label[@class=&quot;text-wrap ng-binding&quot;]</value>
+      <webElementGuid>5ab501ed-361d-4158-98b4-34f5248a94c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home Delivery'])[2]/following::label[1]</value>
+      <webElementGuid>8680598d-62cc-4572-ba06-6a92a2620d8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tail Lift'])[2]/following::label[2]</value>
+      <webElementGuid>df068008-edd9-48ff-8087-5614be20c2ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FORS Delivery'])[2]/preceding::label[1]</value>
+      <webElementGuid>2c21632c-577a-48fd-8638-a0e20c1c7506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[1]/preceding::label[2]</value>
+      <webElementGuid>30ebe3b3-75dd-45c9-af9f-9b3bec097479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[4]/div/label</value>
+      <webElementGuid>903959fc-8c9a-4d1c-a46e-601288438fdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Pre-Booked' or . = 'Pre-Booked')]</value>
+      <webElementGuid>eb118b60-b395-430d-b31f-e1315f46df6b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

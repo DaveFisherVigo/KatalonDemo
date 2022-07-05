@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Save_fa fa-lg fa-floppy-o</name>
+   <tag></tag>
+   <elementGuidId>0aaf620c-4a87-41be-b87c-782e54ae5381</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-lg.fa-floppy-o</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='saveForm']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>be976e6f-324d-41f9-9a96-34e128149ff8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-lg fa-floppy-o</value>
+      <webElementGuid>f8456dab-71c6-4283-bd5d-3e4f53ed7074</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>492837aa-b5e1-4fb3-9c87-1f7733c4605e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;saveForm&quot;)/i[@class=&quot;fa fa-lg fa-floppy-o&quot;]</value>
+      <webElementGuid>bac0d535-dc43-4fee-9b81-4630ad9c523d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='saveForm']/i</value>
+      <webElementGuid>7f31db44-c075-4559-9fbb-cec03a11bd4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//buttons/div/div/div/div/a[2]/i</value>
+      <webElementGuid>85e49fb2-3bbe-4900-afcd-a8c17131f8a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

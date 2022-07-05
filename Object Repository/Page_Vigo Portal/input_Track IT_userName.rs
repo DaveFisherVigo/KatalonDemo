@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Track IT_userName</name>
+   <tag></tag>
+   <elementGuidId>3a3cc114-fae4-4568-8f2f-fa64acda82f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tabs__item.open > ptapp-login-form.ng-isolate-scope > div.grid > div.grid__column-100 > form[name=&quot;loginForm&quot;] > div.form__row > div.form__input.form__input--icon > input[name=&quot;userName&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@name='userName'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f7cc5dee-7f74-4a14-8c5c-ed517ba6cd27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>4f985cd9-d8a8-4453-9b96-cb4c975e4cd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>userName</value>
+      <webElementGuid>1062a4d9-f3a7-47c1-bba1-8fa764543226</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>userName</value>
+      <webElementGuid>e51967a8-56b3-4f04-9c52-6bd4a7881930</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter your username</value>
+      <webElementGuid>e44efbd9-11ad-4793-821a-66003bc50c43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>de6c45e3-682e-4337-bbec-e82ecd9878ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required ng-valid-maxlength</value>
+      <webElementGuid>ef42952a-12d2-443c-bac1-4432228d6f85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-login&quot;]/div[@class=&quot;site-wrapper&quot;]/div[@class=&quot;ng-scope&quot;]/ptapp-login[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;tabs&quot;]/div[@class=&quot;tabs__content tabs__content--nplr&quot;]/div[@class=&quot;tabs__item open&quot;]/ptapp-login-form[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;grid&quot;]/div[@class=&quot;grid__column-100&quot;]/form[@class=&quot;form ng-pristine ng-invalid ng-invalid-required ng-valid-maxlength&quot;]/div[@class=&quot;form__row&quot;]/div[@class=&quot;form__input form__input--icon&quot;]/input[@class=&quot;ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required ng-valid-maxlength&quot;]</value>
+      <webElementGuid>4d96b499-e78a-42ef-be28-d4b6af7f3516</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@name='userName'])[2]</value>
+      <webElementGuid>0ea7dfd7-60ea-47c9-8f86-826558c19f10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ptapp-login-form/div/div/form/div/div/input</value>
+      <webElementGuid>86fa3165-fa59-4bcc-b1cc-2670f8d6258d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'userName' and @placeholder = 'Enter your username']</value>
+      <webElementGuid>625154e8-a0c8-4739-a1b2-ac12c2742f54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

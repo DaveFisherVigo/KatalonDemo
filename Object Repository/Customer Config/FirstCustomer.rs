@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FirstCustomer</name>
+   <tag></tag>
+   <elementGuidId>4372b26d-1300-4da5-9580-038cb90cdeba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div[1]/div/div/ptapp-register/div[2]/div[2]/div[2]/ptapp-register-view/div[2]/div/table/tbody/tr[1]/td[2]/a
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>ea93bc9e-75a8-4d7d-8e31-8fd5a4ea7fea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1656948039457</value>
+      <webElementGuid>43c288f9-e685-43e1-8de2-9ce4d9dbbc79</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

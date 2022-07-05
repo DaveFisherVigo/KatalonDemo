@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>NotesCompleteBtn</name>
+   <tag></tag>
+   <elementGuidId>832b40ab-5ca2-449a-b793-e4b117dade1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.mb-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery Notes'])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>684498dc-68b8-4533-86d5-a73bc753d27d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button mb-2</value>
+      <webElementGuid>8b67ef6d-e528-49e0-aaae-74a97fff8d4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>completeButton()</value>
+      <webElementGuid>82570359-2c60-4ff2-b660-acd65d301bbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                             Complete
+                        </value>
+      <webElementGuid>5e82bf52-dccb-4adb-b667-7f78eaee20f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;site-wrapper&quot;]/div[@class=&quot;content content--fw&quot;]/div[@class=&quot;page-enter-job-delivery&quot;]/div[@class=&quot;ng-scope&quot;]/ui-view[@class=&quot;ng-scope&quot;]/job-form[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;tabs helper-pos-relative&quot;]/div[@class=&quot;tabs__content tabs__content--nplr&quot;]/div[@class=&quot;tabs__item open&quot;]/ng-form[@class=&quot;form ng-valid-maxlength ng-valid-min ng-valid-pattern ng-valid-email ng-valid-fields_postcode ng-valid-addr3 ng-dirty ng-valid-parse ng-valid-postcode ng-valid ng-valid-required&quot;]/notes[@class=&quot;ng-isolate-scope&quot;]/ng-form[@class=&quot;ng-pristine ng-valid ng-valid-maxlength&quot;]/div[@class=&quot;col-12 pl-2 pl-md-2 pr-2 pr-md-2&quot;]/div[1]/div[@class=&quot;row justify-content-end&quot;]/div[@class=&quot;col-4 text-right float-right&quot;]/a[@class=&quot;button mb-2&quot;]</value>
+      <webElementGuid>0e243d9c-fca7-4413-9488-307ca6aa772b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery Notes'])[1]/following::a[1]</value>
+      <webElementGuid>ed5149a4-db3c-4534-b087-5a6381d093d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collection Notes'])[1]/following::a[1]</value>
+      <webElementGuid>2b3f0d6f-de22-4d96-9d9f-81f106ad405c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Paperwork Required'])[1]/preceding::a[2]</value>
+      <webElementGuid>e16e80d9-729d-4c9f-8d02-f8c1d4f66655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[45]</value>
+      <webElementGuid>4f15e3da-6aed-4480-8b08-4d294404f5f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a</value>
+      <webElementGuid>9102a0aa-ebdd-4051-984f-d30d01a20d77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = '
+                             Complete
+                        ' or . = '
+                             Complete
+                        ')]</value>
+      <webElementGuid>ecd3976e-f5c7-49a0-8915-e7f6d657d480</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

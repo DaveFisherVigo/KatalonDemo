@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SelectCategory</name>
+   <tag></tag>
+   <elementGuidId>fc0554f5-7be6-40e8-8449-eb93ab621344</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#details_unit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='details_unit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ab92200b-d63b-4e95-b017-b86ac4c47576</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>details_unit</value>
+      <webElementGuid>ea56d64d-e4ac-4a45-a8e4-b7823ddd4527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>details_unit</value>
+      <webElementGuid>9d2d7cfe-3fc5-41da-a9dc-beb3bb4ffb85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>spaces.unit</value>
+      <webElementGuid>3dc3dfb9-e688-4de9-8367-d3c645b1f832</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-change</name>
+      <type>Main</type>
+      <value>unitChanged()</value>
+      <webElementGuid>9ce947bb-56e2-436e-b1fc-f3c3b7e7a090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-untouched ng-valid ng-not-empty</value>
+      <webElementGuid>433b0509-fc0c-47a5-b08f-bb8cbc0a8126</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                K - PALLETS
+                            </value>
+      <webElementGuid>9bf4a30c-9470-4b66-a14f-c1fe04ae5af4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;details_unit&quot;)</value>
+      <webElementGuid>7e540c9a-6646-476f-b1df-0cb217660018</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='details_unit']</value>
+      <webElementGuid>ef428766-fac8-42a3-a7e7-09726b4b52f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[1]/following::select[1]</value>
+      <webElementGuid>18150913-c86b-4f42-a7e5-af509e42f9ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FORS Delivery'])[2]/following::select[1]</value>
+      <webElementGuid>cbc3e197-3fe9-4861-8c51-0da45f004bf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Full'])[1]/preceding::select[1]</value>
+      <webElementGuid>d3b5efed-a7ee-4fef-b19f-904bfd050fa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Half'])[1]/preceding::select[1]</value>
+      <webElementGuid>21f874c9-978a-4063-8194-4bea4141e553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div[2]/div/select</value>
+      <webElementGuid>c57408a4-941a-45d6-ae78-72a950efaa98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'details_unit' and @id = 'details_unit' and (text() = '
+                                K - PALLETS
+                            ' or . = '
+                                K - PALLETS
+                            ')]</value>
+      <webElementGuid>15571b73-41b5-4f2d-ae80-df1177d2ab92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

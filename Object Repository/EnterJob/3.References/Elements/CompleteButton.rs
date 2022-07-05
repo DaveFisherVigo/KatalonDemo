@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CompleteButton</name>
+   <tag></tag>
+   <elementGuidId>a4958140-dbec-4b3b-a044-148c63da42c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='referenceCompleteBtn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#referenceCompleteBtn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9a997278-e1e1-45d1-98af-061ca015d105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>referenceCompleteBtn</value>
+      <webElementGuid>a7445769-a200-45f1-9a74-cc553c5fd0c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>caf35e3b-baf9-4b49-a71a-19dedd37e92f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>completeButton()</value>
+      <webElementGuid>1778a6ab-b452-4334-bfef-5191a03fa5ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            
+                            Complete
+                        </value>
+      <webElementGuid>27b7b552-bd3d-4e18-81ed-a85f4a27764f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;referenceCompleteBtn&quot;)</value>
+      <webElementGuid>1a92f195-2d20-46a9-8e60-d98fc09a9f53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='referenceCompleteBtn']</value>
+      <webElementGuid>a017053d-ded0-4dfb-aba0-5789bb35e61b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Number'])[1]/following::a[1]</value>
+      <webElementGuid>132d289f-e25e-4f42-b348-616631902765</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Reference'])[1]/following::a[1]</value>
+      <webElementGuid>6c32be5b-3b3d-44b4-8962-8bd3ecc751a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consignment Number'])[2]/preceding::a[1]</value>
+      <webElementGuid>ff8cd710-a90c-405d-a065-85da9ab7c584</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Reference'])[2]/preceding::a[1]</value>
+      <webElementGuid>2dd71097-b948-4747-8368-9b22202c68cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[34]</value>
+      <webElementGuid>20b5bba7-2c24-4a3e-9a96-9c8f6582927e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/a</value>
+      <webElementGuid>eedd5b26-3654-4cc4-9584-838debe9cca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'referenceCompleteBtn' and (text() = '
+                            
+                            Complete
+                        ' or . = '
+                            
+                            Complete
+                        ')]</value>
+      <webElementGuid>84b39ea1-77aa-4ae2-a355-dcf8dc78cbd1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

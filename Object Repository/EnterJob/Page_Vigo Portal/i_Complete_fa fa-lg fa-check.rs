@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Complete_fa fa-lg fa-check</name>
+   <tag></tag>
+   <elementGuidId>e8e8d9e8-32ce-489e-b5eb-cde2e03ff28e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.mb-2 > i.fa.fa-lg.fa-check</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>88635a99-ad3f-4f05-ae9f-a60cba111e2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-lg fa-check</value>
+      <webElementGuid>17106219-f3e3-4259-bdb3-b28a376d5586</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>82932bff-e230-47f8-9771-545c6f31974c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;site-wrapper&quot;]/div[@class=&quot;content content--fw&quot;]/div[@class=&quot;page-enter-job-delivery&quot;]/div[@class=&quot;ng-scope&quot;]/ui-view[@class=&quot;ng-scope&quot;]/job-form[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;tabs helper-pos-relative&quot;]/div[@class=&quot;tabs__content tabs__content--nplr&quot;]/div[@class=&quot;tabs__item open&quot;]/ng-form[@class=&quot;form ng-valid-maxlength ng-valid-min ng-valid-pattern ng-valid-email ng-valid-addr3 ng-dirty ng-valid-parse ng-valid ng-valid-required ng-valid-server-validation&quot;]/notes[@class=&quot;ng-isolate-scope&quot;]/ng-form[@class=&quot;ng-pristine ng-valid ng-valid-maxlength&quot;]/div[@class=&quot;col-12 pl-2 pl-md-2 pr-2 pr-md-2&quot;]/div[1]/div[@class=&quot;row justify-content-end&quot;]/div[@class=&quot;col-4 text-right float-right&quot;]/a[@class=&quot;button mb-2&quot;]/i[@class=&quot;fa fa-lg fa-check&quot;]</value>
+      <webElementGuid>7ece3fac-53b5-406f-b803-add13f657213</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a/i</value>
+      <webElementGuid>39f3f006-2118-426e-a3c6-e24819e74f36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

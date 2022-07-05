@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Contact</name>
+   <tag></tag>
+   <elementGuidId>f9e8295f-4749-430b-a3f1-0e709078606d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery Fields'])[1]/following::label[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>2087cfa4-52eb-4d53-aa62-af5c5a33aa16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>show_del_delivery_contact</value>
+      <webElementGuid>ba3ee278-75ae-4bac-a9f1-aece81d23f1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact</value>
+      <webElementGuid>b5eb7d4c-bd26-4485-a1c6-54440fa2104c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;site-wrapper&quot;]/div[@class=&quot;content content--fw&quot;]/div[@class=&quot;page-customer-config&quot;]/div[@class=&quot;ng-scope&quot;]/ptapp-cust-config[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;grid&quot;]/div[@class=&quot;grid__column-100&quot;]/ptapp-cust-config-field-visibility[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;card-section&quot;]/div[@class=&quot;card-section__body card-section__body--alt&quot;]/form[@class=&quot;form ng-pristine ng-valid&quot;]/div[@class=&quot;tabs nmlr&quot;]/div[@class=&quot;tabs__content&quot;]/div[@class=&quot;tabs__item open&quot;]/div[@class=&quot;grid helper-mb&quot;]/div[@class=&quot;grid__column-25&quot;]/div[@class=&quot;form__row form__row--nmb&quot;]/div[@class=&quot;form__input&quot;]/label[1]</value>
+      <webElementGuid>9d81a90f-4593-4876-9b11-9d5f6ee698a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery Fields'])[1]/following::label[1]</value>
+      <webElementGuid>08f21f7f-e665-415e-b6cc-c5fa86ea0b0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Number'])[1]/following::label[1]</value>
+      <webElementGuid>c19350b6-1e49-4dbc-b391-e285252a017a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[3]/preceding::label[1]</value>
+      <webElementGuid>f0dc9c5b-7d7d-4a65-bd5f-e78d6cf14b36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[3]/preceding::label[2]</value>
+      <webElementGuid>ce264349-a625-4ad5-a4d0-21bbd4b5df0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ptapp-cust-config-field-visibility/div/div[3]/form/div/div[2]/div/div/div[3]/div/div/label</value>
+      <webElementGuid>00e7f00d-acb1-44d9-b411-3e066f41d614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Contact' or . = 'Contact')]</value>
+      <webElementGuid>55f7d536-b881-49a7-8c00-60457e354f09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

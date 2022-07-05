@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Search Addresses</name>
+   <tag></tag>
+   <elementGuidId>a41ef974-e26c-4f1b-9d87-76af60d29165</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.select2-choice.ui-select-match.ng-scope.select2-default > span.select2-chosen.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='delivery_deliveryaddress-search-ac']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bf31ec70-306b-4e40-81d9-f06084eb6666</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-show</name>
+      <type>Main</type>
+      <value>$select.isEmpty()</value>
+      <webElementGuid>420914db-8ffd-4450-8d9e-f54dfee8c8e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-chosen ng-binding</value>
+      <webElementGuid>f9488b84-74ce-46a8-85dc-0a0a9d6480cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search Addresses</value>
+      <webElementGuid>c3fbee32-d817-4d89-85a3-104c4a623e30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;delivery_deliveryaddress-search-ac&quot;)/a[@class=&quot;select2-choice ui-select-match ng-scope select2-default&quot;]/span[@class=&quot;select2-chosen ng-binding&quot;]</value>
+      <webElementGuid>834735ad-d7bd-42cf-8e94-588c5453cba6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>36c083b1-6844-4a4e-945c-f39a415de8ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-show</name>
+      <type>Main</type>
+      <value>$select.isEmpty()</value>
+      <webElementGuid>68afc962-3749-420f-8a1a-21769e498052</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-chosen ng-binding</value>
+      <webElementGuid>350784ed-8e16-445d-a00a-9f2f3691708e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search Addresses</value>
+      <webElementGuid>18efc701-9780-4687-a497-694b2f14675f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;delivery_deliveryaddress-search-ac&quot;)/a[@class=&quot;select2-choice ui-select-match ng-scope select2-default&quot;]/span[@class=&quot;select2-chosen ng-binding&quot;]</value>
+      <webElementGuid>c9dcfa16-343b-437e-a51c-2f78d1897368</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='delivery_deliveryaddress-search-ac']/a/span</value>
+      <webElementGuid>225c4b69-f223-4589-9a36-22bb00a348e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter the text to begin address search.'])[1]/following::span[1]</value>
+      <webElementGuid>fca786c2-d0c3-4f22-ad21-dcb8664b4e6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Network'])[2]/following::span[2]</value>
+      <webElementGuid>afbcca40-fbf8-4cbe-88d0-595d12f99930</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/preceding::span[3]</value>
+      <webElementGuid>efaeaf1f-790a-4b15-bf06-df3338ecaf2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ptapp-address-master/ng-form/div/div[2]/div/div/div/ptapp-ac-select/div/div[2]/div/a/span</value>
+      <webElementGuid>637e7e86-6da5-429d-bfb8-be9760b2211d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Search Addresses' or . = 'Search Addresses')]</value>
+      <webElementGuid>081ef072-b6cc-4442-91dd-b1b57edf260f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
