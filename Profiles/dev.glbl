@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>dev</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://ptk021.devportal.com'</initValue>
+      <name>ptk021</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

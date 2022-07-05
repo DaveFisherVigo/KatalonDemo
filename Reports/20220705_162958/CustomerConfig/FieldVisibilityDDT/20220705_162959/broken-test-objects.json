@@ -8,7 +8,7 @@
       "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Phone Number\u0027])[3]/following::label[1]",
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/FieldVisibility/deliveryEmail_neighbor.png"
+      "pathToScreenshot": "Reports/20220705_162958/CustomerConfig/FieldVisibilityDDT/20220705_162959/Object Repository/FieldVisibility/deliveryEmail_neighbor.png"
     },
     {
       "approved": true,

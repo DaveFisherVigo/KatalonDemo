@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1.LoginUsingVariables</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4289eec-31bf-439a-ba14-33f7af7ec443</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>886fc76d-f6a3-4c8e-a8df-3deac3214853</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>41ebbfc2-d33d-49a5-b4af-4a75c02daa7c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c29de583-d5b7-4ab0-9e98-c20e11f721b9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.ptk021</defaultValue>
+      <description></description>
+      <id>886fc76d-f6a3-4c8e-a8df-3deac3214853</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'021gbrail'</defaultValue>
+      <description></description>
+      <id>41ebbfc2-d33d-49a5-b4af-4a75c02daa7c</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'llandow23'</defaultValue>
+      <description></description>
+      <id>c29de583-d5b7-4ab0-9e98-c20e11f721b9</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

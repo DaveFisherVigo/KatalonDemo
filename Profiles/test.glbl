@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>test</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>url for ptk021</description>
+      <initValue>'http://ptk021.testportal.com'</initValue>
+      <name>ptk021</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>url for vig999</description>
+      <initValue>'http://vig999.testportal.com'</initValue>
+      <name>vig999</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

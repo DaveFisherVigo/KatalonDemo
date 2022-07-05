@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="FieldVisibilityDDT" time="42.821" tests="3" failures="0" errors="0">
+   <testsuite name="FieldVisibilityDDT" tests="3" failures="0" errors="0" time="42.821" skipped="0" timestamp="2022-07-05 16:28:05" hostname="dfisher - VSL-MSL-25.Vigo.local" id="Test Suites/CustomerConfig/FieldVisibilityDDT">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\dev\\Katalon\\KatalonRepo\\Reports\\20220705_162757\\CustomerConfig\\FieldVisibilityDDT\\20220705_162757"/>
+         <property name="logFiles" value="C:\\dev\\Katalon\\KatalonRepo\\Reports\\20220705_162757\\CustomerConfig\\FieldVisibilityDDT\\20220705_162757\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="dfisher - VSL-MSL-25.Vigo.local"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.3.5.208"/>
+         <property name="browser" value="Chrome 103.0.5060.66"/>
+         <property name="hostAddress" value="192.168.86.34"/>
+         <property name="sessionId" value="7c3ca8f4f2661fedf6ca56c1b5a7db54"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/CustomerConfig/FieldVisibility" time="15.732" classname="Test Cases/CustomerConfig/FieldVisibility" status="PASSED">
+         <system-out><![CDATA[2022-07-05 16:28:06 - [TEST_CASE][PASSED] - Test Cases/CustomerConfig/FieldVisibility: Test Cases/CustomerConfig/FieldVisibility
+
+2022-07-05 16:28:07 - [TEST_STEP][PASSED] - url = MyClass.getGlobalVariableByName(dynamicUrl, url): MyClass.getGlobalVariableByName is PASSED
+
+2022-07-05 16:28:07 - [MESSAGE][INFO] - name: http://portal.ptk021.local
+
+2022-07-05 16:28:07 - [MESSAGE][PASSED] - MyClass.getGlobalVariableByName is PASSED
+
+2022-07-05 16:28:07 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login/1.LoginUsingVariables"), ["url":url, "username":username, "password":password], STOP_ON_FAILURE): Call Test Case 'Test Cases/Login/1.LoginUsingVariables' successfully
+
+2022-07-05 16:28:07 - [TEST_CASE][PASSED] - Test Cases/Login/1.LoginUsingVariables: Test Cases/Login/1.LoginUsingVariables
+
+2022-07-05 16:28:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-07-05 16:28:08 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-07-05 16:28:08 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-07-05 16:28:10 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-07-05 16:28:10 - [TEST_STEP][PASSED] - setViewPortSize(1920, 1080): Viewport is set to new size with width = 1920 and height = 1080
+
+2022-07-05 16:28:11 - [MESSAGE][PASSED] - Viewport is set to new size with width = 1920 and height = 1080
+
+2022-07-05 16:28:11 - [TEST_STEP][PASSED] - navigateToUrl(url): Navigate to 'http://portal.ptk021.local' successfully
+
+2022-07-05 16:28:11 - [MESSAGE][PASSED] - Navigate to 'http://portal.ptk021.local' successfully
+
+2022-07-05 16:28:11 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login/Page_Vigo Portal/input_Track IT_userName"), username): Text 'Interhaul' is set on object 'Object Repository/Login/Page_Vigo Portal/input_Track IT_userName'
+
+2022-07-05 16:28:12 - [MESSAGE][PASSED] - Text 'Interhaul' is set on object 'Object Repository/Login/Page_Vigo Portal/input_Track IT_userName'
+
+2022-07-05 16:28:12 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login/Page_Vigo Portal/input_Track IT_userPass"), password): Text '021booking5' is set on object 'Object Repository/Login/Page_Vigo Portal/input_Track IT_userPass'
+
+2022-07-05 16:28:13 - [MESSAGE][PASSED] - Text '021booking5' is set on object 'Object Repository/Login/Page_Vigo Portal/input_Track IT_userPass'
+
+2022-07-05 16:28:13 - [TEST_STEP][PASSED] - click(findTestObject("Login/Page_Vigo Portal/input_Track IT_form__submit--fw")): Object: 'Object Repository/Login/Page_Vigo Portal/input_Track IT_form__submit--fw' is clicked on
+
+2022-07-05 16:28:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_Vigo Portal/input_Track IT_form__submit--fw' is clicked on
+
+2022-07-05 16:28:14 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login/1.LoginUsingVariables' successfully
+
+2022-07-05 16:28:14 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2022-07-05 16:28:16 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-07-05 16:28:16 - [TEST_STEP][PASSED] - navigateToUrl(MyClass.navigateToLocation(custUrl)): Navigate to 'http://portal.ptk021.local/?module=customer-config&custId=66222&shortCompany=4OCUSLTD' successfully
+
+2022-07-05 16:28:16 - [MESSAGE][INFO] - path:?module=customer-config&custId=66222&shortCompany=4OCUSLTD
+
+2022-07-05 16:28:16 - [MESSAGE][PASSED] - Current window's url is: 'http://portal.ptk021.local/'
+
+2022-07-05 16:28:16 - [MESSAGE][INFO] - Url:http://portal.ptk021.local/
+
+2022-07-05 16:28:16 - [MESSAGE][INFO] - proto:http:
+
+2022-07-05 16:28:16 - [MESSAGE][INFO] - host:portal.ptk021.local
+
+2022-07-05 16:28:16 - [MESSAGE][INFO] - fullpath:http://portal.ptk021.local/?module=customer-config&custId=66222&shortCompany=4OCUSLTD
+
+2022-07-05 16:28:16 - [MESSAGE][PASSED] - MyClass.navigateToLocation is PASSED
+
+2022-07-05 16:28:17 - [MESSAGE][PASSED] - Navigate to 'http://portal.ptk021.local/?module=customer-config&custId=66222&shortCompany=4OCUSLTD' successfully
+
+2022-07-05 16:28:17 - [TEST_STEP][PASSED] - click(findTestObject("FieldVisibility/div_Field Visibility")): Object: 'Object Repository/FieldVisibility/div_Field Visibility' is clicked on
+
+2022-07-05 16:28:20 - [MESSAGE][PASSED] - Object: 'Object Repository/FieldVisibility/div_Field Visibility' is clicked on
+
+2022-07-05 16:28:20 - [TEST_STEP][PASSED] - if (visible == "true"): null
+
+2022-07-05 16:28:20 - [TEST_STEP][PASSED] - else: Object 'Object Repository/FieldVisibility/deliverySMS' is NOT visible
+
+2022-07-05 16:28:20 - [TEST_STEP][PASSED] - verifyElementNotVisible(findTestObject("FieldVisibility/deliveryEmail")): Object 'Object Repository/FieldVisibility/deliveryEmail' is NOT visible
+
+2022-07-05 16:28:21 - [MESSAGE][PASSED] - Object 'Object Repository/FieldVisibility/deliveryEmail' is NOT visible
+
+2022-07-05 16:28:21 - [TEST_STEP][PASSED] - verifyElementNotVisible(findTestObject("FieldVisibility/deliverySMS")): Object 'Object Repository/FieldVisibility/deliverySMS' is NOT visible
+
+2022-07-05 16:28:21 - [MESSAGE][PASSED] - Object 'Object Repository/FieldVisibility/deliverySMS' is NOT visible
+
+2022-07-05 16:28:21 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-07-05 16:28:22 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/CustomerConfig/FieldVisibility" time="13.034" classname="Test Cases/CustomerConfig/FieldVisibility" status="PASSED">
+         <system-out><![CDATA[2022-07-05 16:28:22 - [TEST_CASE][PASSED] - Test Cases/CustomerConfig/FieldVisibility: Test Cases/CustomerConfig/FieldVisibility
+
+2022-07-05 16:28:22 - [TEST_STEP][PASSED] - url = MyClass.getGlobalVariableByName(dynamicUrl, url): MyClass.getGlobalVariableByName is PASSED
+
+2022-07-05 16:28:22 - [MESSAGE][INFO] - name: http://portal.ptk021.local
+
+2022-07-05 16:28:22 - [MESSAGE][PASSED] - MyClass.getGlobalVariableByName is PASSED
+
+2022-07-05 16:28:22 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login/1.LoginUsingVariables"), ["url":url, "username":username, "password":password], STOP_ON_FAILURE): Call Test Case 'Test Cases/Login/1.LoginUsingVariables' successfully
+
+2022-07-05 16:28:22 - [TEST_CASE][PASSED] - Test Cases/Login/1.LoginUsingVariables: Test Cases/Login/1.LoginUsingVariables
+
+2022-07-05 16:28:22 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-07-05 16:28:22 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-07-05 16:28:22 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-07-05 16:28:23 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-07-05 16:28:23 - [TEST_STEP][PASSED] - setViewPortSize(1920, 1080): Viewport is set to new size with width = 1920 and height = 1080
+
+2022-07-05 16:28:23 - [MESSAGE][PASSED] - Viewport is set to new size with width = 1920 and height = 1080
+
+2022-07-05 16:28:23 - [TEST_STEP][PASSED] - navigateToUrl(url): Navigate to 'http://portal.ptk021.local' successfully
+
+2022-07-05 16:28:24 - [MESSAGE][PASSED] - Navigate to 'http://portal.ptk021.local' successfully
+
+2022-07-05 16:28:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login/Page_Vigo Portal/input_Track IT_userName"), username): Text 'Interhaul' is set on object 'Object Repository/Login/Page_Vigo Portal/input_Track IT_userName'
+
+2022-07-05 16:28:25 - [MESSAGE][PASSED] - Text 'Interhaul' is set on object 'Object Repository/Login/Page_Vigo Portal/input_Track IT_userName'
+
+2022-07-05 16:28:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login/Page_Vigo Portal/input_Track IT_userPass"), password): Text '021booking5' is set on object 'Object Repository/Login/Page_Vigo Portal/input_Track IT_userPass'
+
+2022-07-05 16:28:26 - [MESSAGE][PASSED] - Text '021booking5' is set on object 'Object Repository/Login/Page_Vigo Portal/input_Track IT_userPass'
+
+2022-07-05 16:28:26 - [TEST_STEP][PASSED] - click(findTestObject("Login/Page_Vigo Portal/input_Track IT_form__submit--fw")): Object: 'Object Repository/Login/Page_Vigo Portal/input_Track IT_form__submit--fw' is clicked on
+
+2022-07-05 16:28:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_Vigo Portal/input_Track IT_form__submit--fw' is clicked on
+
+2022-07-05 16:28:26 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login/1.LoginUsingVariables' successfully
+
+2022-07-05 16:28:26 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2022-07-05 16:28:28 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-07-05 16:28:28 - [TEST_STEP][PASSED] - navigateToUrl(MyClass.navigateToLocation(custUrl)): Navigate to 'http://portal.ptk021.local/?module=customer-config&custId=63286&shortCompany=ADELPHIC' successfully
+
+2022-07-05 16:28:28 - [MESSAGE][INFO] - path:?module=customer-config&custId=63286&shortCompany=ADELPHIC
+
+2022-07-05 16:28:30 - [MESSAGE][PASSED] - Current window's url is: 'http://portal.ptk021.local/'
+
+2022-07-05 16:28:30 - [MESSAGE][INFO] - Url:http://portal.ptk021.local/
+
+2022-07-05 16:28:30 - [MESSAGE][INFO] - proto:http:
+
+2022-07-05 16:28:30 - [MESSAGE][INFO] - host:portal.ptk021.local
+
+2022-07-05 16:28:30 - [MESSAGE][INFO] - fullpath:http://portal.ptk021.local/?module=customer-config&custId=63286&shortCompany=ADELPHIC
+
+2022-07-05 16:28:30 - [MESSAGE][PASSED] - MyClass.navigateToLocation is PASSED
+
+2022-07-05 16:28:31 - [MESSAGE][PASSED] - Navigate to 'http://portal.ptk021.local/?module=customer-config&custId=63286&shortCompany=ADELPHIC' successfully
+
+2022-07-05 16:28:31 - [TEST_STEP][PASSED] - click(findTestObject("FieldVisibility/div_Field Visibility")): Object: 'Object Repository/FieldVisibility/div_Field Visibility' is clicked on
+
+2022-07-05 16:28:33 - [MESSAGE][PASSED] - Object: 'Object Repository/FieldVisibility/div_Field Visibility' is clicked on
+
+2022-07-05 16:28:33 - [TEST_STEP][PASSED] - if (visible == "true"): null
+
+2022-07-05 16:28:33 - [TEST_STEP][PASSED] - else: Object 'Object Repository/FieldVisibility/deliverySMS' is NOT visible
+
+2022-07-05 16:28:33 - [TEST_STEP][PASSED] - verifyElementNotVisible(findTestObject("FieldVisibility/deliveryEmail")): Object 'Object Repository/FieldVisibility/deliveryEmail' is NOT visible
+
+2022-07-05 16:28:34 - [MESSAGE][PASSED] - Object 'Object Repository/FieldVisibility/deliveryEmail' is NOT visible
+
+2022-07-05 16:28:34 - [TEST_STEP][PASSED] - verifyElementNotVisible(findTestObject("FieldVisibility/deliverySMS")): Object 'Object Repository/FieldVisibility/deliverySMS' is NOT visible
+
+2022-07-05 16:28:34 - [MESSAGE][PASSED] - Object 'Object Repository/FieldVisibility/deliverySMS' is NOT visible
+
+2022-07-05 16:28:34 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-07-05 16:28:35 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/CustomerConfig/FieldVisibility" time="12.984" classname="Test Cases/CustomerConfig/FieldVisibility" status="PASSED">
+         <system-out><![CDATA[2022-07-05 16:28:35 - [TEST_CASE][PASSED] - Test Cases/CustomerConfig/FieldVisibility: Test Cases/CustomerConfig/FieldVisibility
+
+2022-07-05 16:28:35 - [TEST_STEP][PASSED] - url = MyClass.getGlobalVariableByName(dynamicUrl, url): MyClass.getGlobalVariableByName is PASSED
+
+2022-07-05 16:28:35 - [MESSAGE][INFO] - name: http://portal.vig999.local
+
+2022-07-05 16:28:35 - [MESSAGE][PASSED] - MyClass.getGlobalVariableByName is PASSED
+
+2022-07-05 16:28:35 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login/1.LoginUsingVariables"), ["url":url, "username":username, "password":password], STOP_ON_FAILURE): Call Test Case 'Test Cases/Login/1.LoginUsingVariables' successfully
+
+2022-07-05 16:28:35 - [TEST_CASE][PASSED] - Test Cases/Login/1.LoginUsingVariables: Test Cases/Login/1.LoginUsingVariables
+
+2022-07-05 16:28:35 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-07-05 16:28:35 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-07-05 16:28:35 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-07-05 16:28:36 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-07-05 16:28:36 - [TEST_STEP][PASSED] - setViewPortSize(1920, 1080): Viewport is set to new size with width = 1920 and height = 1080
+
+2022-07-05 16:28:37 - [MESSAGE][PASSED] - Viewport is set to new size with width = 1920 and height = 1080
+
+2022-07-05 16:28:37 - [TEST_STEP][PASSED] - navigateToUrl(url): Navigate to 'http://portal.vig999.local' successfully
+
+2022-07-05 16:28:37 - [MESSAGE][PASSED] - Navigate to 'http://portal.vig999.local' successfully
+
+2022-07-05 16:28:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login/Page_Vigo Portal/input_Track IT_userName"), username): Text 'go2clientconnect' is set on object 'Object Repository/Login/Page_Vigo Portal/input_Track IT_userName'
+
+2022-07-05 16:28:38 - [MESSAGE][PASSED] - Text 'go2clientconnect' is set on object 'Object Repository/Login/Page_Vigo Portal/input_Track IT_userName'
+
+2022-07-05 16:28:38 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login/Page_Vigo Portal/input_Track IT_userPass"), password): Text 'v1g0' is set on object 'Object Repository/Login/Page_Vigo Portal/input_Track IT_userPass'
+
+2022-07-05 16:28:39 - [MESSAGE][PASSED] - Text 'v1g0' is set on object 'Object Repository/Login/Page_Vigo Portal/input_Track IT_userPass'
+
+2022-07-05 16:28:39 - [TEST_STEP][PASSED] - click(findTestObject("Login/Page_Vigo Portal/input_Track IT_form__submit--fw")): Object: 'Object Repository/Login/Page_Vigo Portal/input_Track IT_form__submit--fw' is clicked on
+
+2022-07-05 16:28:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_Vigo Portal/input_Track IT_form__submit--fw' is clicked on
+
+2022-07-05 16:28:39 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login/1.LoginUsingVariables' successfully
+
+2022-07-05 16:28:39 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2022-07-05 16:28:41 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-07-05 16:28:41 - [TEST_STEP][PASSED] - navigateToUrl(MyClass.navigateToLocation(custUrl)): Navigate to 'http://portal.vig999.local/?module=customer-config&custId=66354&shortCompany=BOX001' successfully
+
+2022-07-05 16:28:41 - [MESSAGE][INFO] - path:?module=customer-config&custId=66354&shortCompany=BOX001
+
+2022-07-05 16:28:42 - [MESSAGE][PASSED] - Current window's url is: 'http://portal.vig999.local/'
+
+2022-07-05 16:28:42 - [MESSAGE][INFO] - Url:http://portal.vig999.local/
+
+2022-07-05 16:28:42 - [MESSAGE][INFO] - proto:http:
+
+2022-07-05 16:28:42 - [MESSAGE][INFO] - host:portal.vig999.local
+
+2022-07-05 16:28:42 - [MESSAGE][INFO] - fullpath:http://portal.vig999.local/?module=customer-config&custId=66354&shortCompany=BOX001
+
+2022-07-05 16:28:42 - [MESSAGE][PASSED] - MyClass.navigateToLocation is PASSED
+
+2022-07-05 16:28:43 - [MESSAGE][PASSED] - Navigate to 'http://portal.vig999.local/?module=customer-config&custId=66354&shortCompany=BOX001' successfully
+
+2022-07-05 16:28:43 - [TEST_STEP][PASSED] - click(findTestObject("FieldVisibility/div_Field Visibility")): Object: 'Object Repository/FieldVisibility/div_Field Visibility' is clicked on
+
+2022-07-05 16:28:46 - [MESSAGE][PASSED] - Object: 'Object Repository/FieldVisibility/div_Field Visibility' is clicked on
+
+2022-07-05 16:28:46 - [TEST_STEP][PASSED] - if (visible == "true"): Object 'Object Repository/FieldVisibility/deliverySMS' is visible
+
+2022-07-05 16:28:46 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("FieldVisibility/deliveryEmail"), STOP_ON_FAILURE): Object 'Object Repository/FieldVisibility/deliveryEmail' is visible
+
+2022-07-05 16:28:47 - [MESSAGE][PASSED] - Object 'Object Repository/FieldVisibility/deliveryEmail' is visible
+
+2022-07-05 16:28:47 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("FieldVisibility/deliverySMS"), STOP_ON_FAILURE): Object 'Object Repository/FieldVisibility/deliverySMS' is visible
+
+2022-07-05 16:28:47 - [MESSAGE][PASSED] - Object 'Object Repository/FieldVisibility/deliverySMS' is visible
+
+2022-07-05 16:28:47 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-07-05 16:28:48 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-07-05 16:28:05 - [TEST_SUITE][PASSED] - FieldVisibilityDDT: Test Cases/CustomerConfig/FieldVisibility]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

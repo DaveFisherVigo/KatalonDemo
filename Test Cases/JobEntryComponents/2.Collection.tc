@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2.Collection</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bbcc0dc0-74df-4fd0-889e-931360b399f7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b250f245-6dad-4001-b23c-c90b8afa0ea2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'26/06/2023'</defaultValue>
+      <description></description>
+      <id>b250f245-6dad-4001-b23c-c90b8afa0ea2</id>
+      <masked>false</masked>
+      <name>colDate</name>
+   </variable>
+</TestCaseEntity>

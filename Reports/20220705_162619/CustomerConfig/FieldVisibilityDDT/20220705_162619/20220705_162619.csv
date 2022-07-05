@@ -1,0 +1,31 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FieldVisibilityDDT,Chrome 103.0.5060.66,,,2022-07-05 16:26:27,2022-07-05 16:27:05,38.313s,FAILED
+,,,,,,,
+Test Cases/CustomerConfig/FieldVisibility,Chrome 103.0.5060.66,,,2022-07-05 16:26:27,2022-07-05 16:26:43,15.077s,PASSED
+"url = MyClass.getGlobalVariableByName(dynamicUrl, url)",Chrome 103.0.5060.66,,,2022-07-05 16:26:28,2022-07-05 16:26:28,0.036s,PASSED
+"callTestCase(findTestCase(""Login/1.LoginUsingVariables""), [""url"":url, ""username"":username, ""password"":password], STOP_ON_FAILURE)",Chrome 103.0.5060.66,,,2022-07-05 16:26:28,2022-07-05 16:26:35,6.373s,PASSED
+delay(2),Chrome 103.0.5060.66,,,2022-07-05 16:26:35,2022-07-05 16:26:37,2.014s,PASSED
+navigateToUrl(MyClass.navigateToLocation(custUrl)),Chrome 103.0.5060.66,,,2022-07-05 16:26:37,2022-07-05 16:26:38,1.547s,PASSED
+"click(findTestObject(""FieldVisibility/div_Field Visibility""))",Chrome 103.0.5060.66,,,2022-07-05 16:26:38,2022-07-05 16:26:41,2.446s,PASSED
+"if (visible == ""true"")",Chrome 103.0.5060.66,,,2022-07-05 16:26:41,2022-07-05 16:26:41,0.001s,PASSED
+else,Chrome 103.0.5060.66,,,2022-07-05 16:26:41,2022-07-05 16:26:42,1.150s,PASSED
+closeBrowser(),Chrome 103.0.5060.66,,,2022-07-05 16:26:42,2022-07-05 16:26:43,0.659s,PASSED
+,,,,,,,
+Test Cases/CustomerConfig/FieldVisibility,Chrome 103.0.5060.66,,,2022-07-05 16:26:43,2022-07-05 16:26:55,11.872s,PASSED
+"url = MyClass.getGlobalVariableByName(dynamicUrl, url)",Chrome 103.0.5060.66,,,2022-07-05 16:26:43,2022-07-05 16:26:43,0.002s,PASSED
+"callTestCase(findTestCase(""Login/1.LoginUsingVariables""), [""url"":url, ""username"":username, ""password"":password], STOP_ON_FAILURE)",Chrome 103.0.5060.66,,,2022-07-05 16:26:43,2022-07-05 16:26:47,4.248s,PASSED
+delay(2),Chrome 103.0.5060.66,,,2022-07-05 16:26:47,2022-07-05 16:26:49,2.008s,PASSED
+navigateToUrl(MyClass.navigateToLocation(custUrl)),Chrome 103.0.5060.66,,,2022-07-05 16:26:49,2022-07-05 16:26:50,1.507s,PASSED
+"click(findTestObject(""FieldVisibility/div_Field Visibility""))",Chrome 103.0.5060.66,,,2022-07-05 16:26:50,2022-07-05 16:26:53,2.194s,PASSED
+"if (visible == ""true"")",Chrome 103.0.5060.66,,,2022-07-05 16:26:53,2022-07-05 16:26:53,0.001s,PASSED
+else,Chrome 103.0.5060.66,,,2022-07-05 16:26:53,2022-07-05 16:26:54,1.205s,PASSED
+closeBrowser(),Chrome 103.0.5060.66,,,2022-07-05 16:26:54,2022-07-05 16:26:55,0.660s,PASSED
+,,,,,,,
+Test Cases/CustomerConfig/FieldVisibility,Chrome 103.0.5060.66,,,2022-07-05 16:26:55,2022-07-05 16:27:05,10.507s,FAILED
+"url = MyClass.getGlobalVariableByName(dynamicUrl, url)",Chrome 103.0.5060.66,,,2022-07-05 16:26:55,2022-07-05 16:26:55,0.001s,PASSED
+"callTestCase(findTestCase(""Login/1.LoginUsingVariables""), [""url"":url, ""username"":username, ""password"":password], STOP_ON_FAILURE)",Chrome 103.0.5060.66,,,2022-07-05 16:26:55,2022-07-05 16:26:59,4.106s,PASSED
+delay(2),Chrome 103.0.5060.66,,,2022-07-05 16:26:59,2022-07-05 16:27:01,2.004s,PASSED
+navigateToUrl(MyClass.navigateToLocation(custUrl)),Chrome 103.0.5060.66,,,2022-07-05 16:27:01,2022-07-05 16:27:02,1.450s,PASSED
+"click(findTestObject(""FieldVisibility/div_Field Visibility""))",Chrome 103.0.5060.66,,,2022-07-05 16:27:02,2022-07-05 16:27:04,2.045s,PASSED
+"if (visible == ""true"")",Chrome 103.0.5060.66,,,2022-07-05 16:27:04,2022-07-05 16:27:04,0.001s,PASSED
+else,Chrome 103.0.5060.66,,,2022-07-05 16:27:04,2022-07-05 16:27:05,0.848s,FAILED

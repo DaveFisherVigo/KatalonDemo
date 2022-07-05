@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>EnterDeliveryByExcel</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>77e22987-ad83-4870-81a3-44c29522c2d5</testSuiteGuid>
+   <testCaseLink>
+      <guid>a677c475-95f8-4d1b-9553-c2861a380a23</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/JobEntry/EnterDelivery</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>12d77756-9852-4a4e-8042-c250951182d0</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Jobs</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>12d77756-9852-4a4e-8042-c250951182d0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>colNotes1</value>
+         <variableId>489e92b7-8e89-4847-a9df-1bca973829ce</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>12d77756-9852-4a4e-8042-c250951182d0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>colNotes2</value>
+         <variableId>481474d7-2334-41f0-b82c-0bd32f87c49c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>12d77756-9852-4a4e-8042-c250951182d0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>colNotes3</value>
+         <variableId>d2bd71ce-2b87-4fcc-9630-26ce136e129a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>12d77756-9852-4a4e-8042-c250951182d0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>delNotes1</value>
+         <variableId>a97f366a-5be7-4de6-9599-58011132e1ad</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>12d77756-9852-4a4e-8042-c250951182d0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>delNotes2</value>
+         <variableId>4d145b08-0988-4fad-9891-777b02b6c7c0</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

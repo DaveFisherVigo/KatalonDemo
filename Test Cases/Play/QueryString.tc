@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>QueryString</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1317c520-56d2-4a23-a916-5d01f52470e7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fc602c73-2bf4-4beb-8279-9ddf23cd5dcc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>05257efe-b03d-4ac1-a9dc-b86dd3d35a57</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'/?module=register'</defaultValue>
+      <description></description>
+      <id>fc602c73-2bf4-4beb-8279-9ddf23cd5dcc</id>
+      <masked>false</masked>
+      <name>query</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://portal.ptk131.local/'</defaultValue>
+      <description></description>
+      <id>05257efe-b03d-4ac1-a9dc-b86dd3d35a57</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

@@ -4,4 +4,14 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>url for ptk021</description>
+      <initValue>'http://portal.ptk021.local'</initValue>
+      <name>ptk021</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>url for vig999</description>
+      <initValue>'http://portal.vig999.local'</initValue>
+      <name>vig999</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

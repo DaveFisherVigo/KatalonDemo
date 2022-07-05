@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3.References</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5958856-3620-4b96-bd6c-5675f134c188</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f94a0f58-1e54-417e-8f77-417347bb76f6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>656eae82-f440-465e-bf43-8d06077a3081</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Katalon1'</defaultValue>
+      <description></description>
+      <id>f94a0f58-1e54-417e-8f77-417347bb76f6</id>
+      <masked>false</masked>
+      <name>custRef1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Katalon2'</defaultValue>
+      <description></description>
+      <id>656eae82-f440-465e-bf43-8d06077a3081</id>
+      <masked>false</masked>
+      <name>custRef2</name>
+   </variable>
+</TestCaseEntity>
